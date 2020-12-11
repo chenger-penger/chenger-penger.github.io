@@ -1,15 +1,14 @@
 ---
-title: "TEST TEST TEST"
+title: "DuDoNet: Dual Domain Network for CT Metal Artifact Reduction"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/dudonet
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'The Conference on Computer Vision and Pattern Recognition (CVPR), 2020'
+paperurl: 'http://arxiv.org/abs/1907.00273'
+citation: 'Haofu Liao\*, Wei-An Lin\*, Cheng Peng, Xiaohang Sun, Jingdan Zhang, Jiebo Luo, Rama Chellappa, Shaohua Kevin Zhou. &quot;DuDoNet: Dual Domain Network for CT Metal Artifact Reduction.&quot; <i>The Conference on Computer Vision and Pattern Recognition (CVPR), 2020</i>'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
