@@ -13,13 +13,11 @@ I am a Computer Science PhD student at Johns Hopkins University, advised by Prof
 
 
 ---
----
 
-<span style="font-size:4em;">Publications</span>
+# Publications
 
-"DuDoNet: Dual Domain Network for CT Metal Artifact Reduction"
+DuDoNet: Dual Domain Network for CT Metal Artifact Reduction (CVPR 2020)
 
-Haofu Liao*, Wei-An Lin*, Cheng Peng, Xiaohang Sun, Jingdan Zhang, Jiebo Luo, Rama Chellappa, Shaohua Kevin Zhou
+Haofu Liao*, Wei-An Lin*, **Cheng Peng**, Xiaohang Sun, Jingdan Zhang, Jiebo Luo, Rama Chellappa, Shaohua Kevin Zhou
 
----
 ---
