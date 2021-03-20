@@ -14,7 +14,7 @@ I am a Computer Science PhD student at Johns Hopkins University, advised by Prof
 
 ---
 
-# Publications
+# Publications 
 
 *XraySyn: Realistic View Synthesis From a Single Radiograph Through CT Priors (AAAI 2021)*
 
