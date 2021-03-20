@@ -18,29 +18,29 @@ I am a Computer Science PhD student at Johns Hopkins University, advised by Prof
 
 ---
 
-XraySyn: Dual Domain Network for CT Metal Artifact Reduction (AAAI 2021)
+*XraySyn: Dual Domain Network for CT Metal Artifact Reduction (AAAI 2021)*
 
-**Cheng Peng**, Haofu Liao, Gina Wong, Shaohua Kevin Zhou, Rama Chellappa
+**Cheng Peng**, Haofu Liao, Gina Wong, S Kevin Zhou, Rama Chellappa
 
 
----
+***
 
-Towards Multi-Sequence MR Image Recovery from Undersampled K-space Data (MIDL 2020)
+*Towards Multi-Sequence MR Image Recovery from Undersampled K-space Data (MIDL 2020)*
 
 **Cheng Peng**, Wei-An Lin, Rama Chellappa, S Kevin Zhou
 
 
----
+***
 
-SAINT: Spatially Aware Interpolation Network for Medical Slice Synthesis (CVPR 2020)
+*SAINT: Spatially Aware Interpolation Network for Medical Slice Synthesis (CVPR 2020)*
 
 **Cheng Peng**, Wei-An Lin, Haofu Liao, S Kevin Zhou, Rama Chellappa
 
 
----
+***
 
-DuDoNet: Dual Domain Network for CT Metal Artifact Reduction (CVPR 2019)
+*DuDoNet: Dual Domain Network for CT Metal Artifact Reduction (CVPR 2019)*
 
 Haofu Liao\*, Wei-An Lin\*, **Cheng Peng**, Xiaohang Sun, Jingdan Zhang, Jiebo Luo, Rama Chellappa, S Kevin Zhou
 
----
+***
