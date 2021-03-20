@@ -16,8 +16,6 @@ I am a Computer Science PhD student at Johns Hopkins University, advised by Prof
 
 # Publications
 
----
-
 *XraySyn: Realistic View Synthesis From a Single Radiograph Through CT Priors (AAAI 2021)*
 
 **Cheng Peng**, Haofu Liao, Gina Wong, S Kevin Zhou, Rama Chellappa

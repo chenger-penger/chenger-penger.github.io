@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Deep 2D-3D Modeling and Learning in Medical Image Computing"
-permalink: /tutorial/
+permalink: /tutorial_temp/
 author_profile: true
 ---
 
